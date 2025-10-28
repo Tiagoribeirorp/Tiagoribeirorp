@@ -44,11 +44,11 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
 
 ### 🌐 Conecte-se Comigo
 
-| Plataforma | Link |
-| :---: | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/analista-tiago-ribeiro/) |
-| **Portfólio** | [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://tiagopersonalsite.netlify.app/#) |
-| **E-mail** | [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tiagoribeirodev@gmail.com) |
+| Plataforma   | Link |
+| :---:        | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analista-tiago-ribeiro/) |
+| **Portfólio**| [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tiagopersonalsite.netlify.app/#) |
+| **E-mail**   | [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagoribeirodev@gmail.com) |
 
 <p align="center">
   <small>Feito com ❤️ por Tiago Ribeiro</small>
