@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="[LINK DA SUA FOTO DE PERFIL OU UM BANNER LEGAL]" alt="Banner de Boas-Vindas ou Avatar" width="100%">
+  <img src="[https://avatars.githubusercontent.com/u/24392536?s=400&u=0a58accfdd3de54ae7715a260e5185714ce897bf&v=4]" alt="Banner de Boas-Vindas ou Avatar" width="100%">
   <h1>👋 Olá! Eu sou o Tiago Ribeiro</h1>
   <h3>@Tiagoribeirorp | Apaixonado por Dados, Tecnologias Emergentes e Desenvolvimento de Software.</h3>
 </div>
