@@ -1,7 +1,7 @@
-## Hi there 👋
+## Olá ou Hello 👋
 
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/u/24392536?s=400&u=0a58accfdd3de54ae7715a260e5185714ce897bf&v=4]" alt="Banner de Boas-Vindas ou Avatar" width="100%">
+  <img src="http://www.avatarsinpixels.com/minipix/eyJCb2R5IjoiMiIsIkV5ZXMiOiIxMiIsIlNob2VzIjoiNSIsIlBhbnRzIjoiMiIsIlRvcCI6IjIiLCJIYWlyIjoiMTEiLCJHbGFzc2VzIjoiMiIsInNraW5Ub25lIjoiZWM3ZDM0IiwiZXllc1RvbmUiOiIzMzMzMzMifQ==/1/show.png" alt="Banner de Boas-Vindas ou Avatar" width="15%">
   <h1>👋 Olá! Eu sou o Tiago Ribeiro</h1>
   <h3>@Tiagoribeirorp | Apaixonado por Dados, Tecnologias Emergentes e Desenvolvimento de Software.</h3>
 </div>
@@ -24,12 +24,12 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
 
 | Categoria | Tecnologias |
 | :---: | :--- |
-| **Linguagens** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> |
+| **Linguagens** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 | **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/> |
 | **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> |
 | **Banco de Dados** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> |
 
-*(Substitua estas badges pelas tecnologias que você realmente usa! Pesquise por "shields.io" para gerar mais badges.)*
+
 
 ---
 
