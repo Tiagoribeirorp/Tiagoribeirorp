@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="[https://avatars.githubusercontent.com/u/24392536?s=400&u=0a58accfdd3de54ae7715a260e5185714ce897bf&v=4]" alt="Banner de Boas-Vindas ou Avatar" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/24392536?s=400&u=0a58accfdd3de54ae7715a260e5185714ce897bf&v=4" width="100%">
   <h1>👋 Olá! Eu sou o Tiago Ribeiro</h1>
   <h3>@Tiagoribeirorp | Apaixonado por Dados, Tecnologias Emergentes e Desenvolvimento de Software.</h3>
 </div>
@@ -29,7 +29,7 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho trabalhado:
 | **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> |
 | **Banco de Dados** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> |
 
-*(Substitua estas badges pelas tecnologias que você realmente usa! Pesquise por "shields.io" para gerar mais badges.)*
+
 
 ---
 
