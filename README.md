@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi Pessoal, belezinha? 👋
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQGFxYixHTjsLw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731463328443?e=1762992000&v=beta&t=oJHtEpHfyrj57yh9ZQNqY1i7bhqLTSyfCCCBaQ3GCFc" width="30%">
-  <h1>👋 Olá! Eu sou o Tiago Ribeiro</h1>
+  
+  <h1> Olá! Eu sou o Tiago Ribeiro</h1>
   <h3>@Tiagoribeirorp | Apaixonado por Dados, Tecnologias Emergentes e Desenvolvimento de Software.</h3>
 </div>
 
